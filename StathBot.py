@@ -9,7 +9,7 @@ import time
 global com
 com = "!!"
 
-TOKEN = 'ODU3OTQ3ODA5NTc5NDAxMjI2.YNXAKQ.I5-dWLmln3VxDioPUK6qizbB7bY'
+TOKEN = ''
 
 #Which channel can it function in:
 global channelName
