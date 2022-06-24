@@ -1,0 +1,12 @@
+Commands:
+!!quote - Sends a random quote
+!!gif - Sends a random gif
+!!image - Sends a random image
+!!randomep - sends a random episode
+!!flute - fluuuuuuuuute
+!!question - puts a question in chat for anyone to answer. First person to answer wins!
+!!score - outputs the number of questions you have answered correctly.
+!!leaderboard - outupts the users with the top 3 number of questions answered correctly.
+!!game X - starts a game of X questions.
+!!endgame - ends the current game, outputting the current leaderboard (only the person that started the game can do this).
+!!help - dms this message to you.

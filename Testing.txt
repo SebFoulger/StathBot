@@ -1,0 +1,3 @@
+Test game with multiple people
+Test end game with multiple people
+test someone else trying to end the game

@@ -1,0 +1,10 @@
+Pictionary game of some sort by dming image?
+Make stath emotes for the server so we can have reactions
+Be able to see someone elses score
+Change game to output what the current score is, or at least be able to output the current score
+Collect the Stath characters
+Hello/goodbye commands
+
+Efficiency:
+Make it so that it only writes and reads from files at the start and end of the program?
+Comment everything
